@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.instagramQR {
+  width: 160px;
+  height: 160px;
+}
+.Saba {
+  background-color: white;
+  width: 320px;
+  height: auto;
+  margin: auto;
+  margin-top: 152px;
+  padding: 16px 16px 16px 16px;
+  border-radius: 20px;
+}
+body {
+  background-color: #d6eaf8;
+}
+.Instagraminside {
+  width: 288px;
+  height: 288px;
+  background-color: #e8daef;
+  padding: 64px;
+  border-radius: 10px;
+}
+.profile-title {
+  text-align: center;
+  width: 288px;
+  height: auto;
+  size: 22px;
+  padding-top: 24px;
+}
+.description {
+  color: #7d889e;
+  padding: 16px 16px 32px 16px;
+  text-align: center;
+}
